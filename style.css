@@ -1,6 +1,24 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    font-family: 'Kantumruy Pro', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
 .background-image {
-    background-position: center;
+    background-image: url(images/donation6.jpg);
     background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
     height: 600px;
-    width: 120%;
+}
+
+.savior {
+    text-align: center;
+    color: aliceblue;
+    padding-top: 100px;
+    font-size: 50px;
 }
