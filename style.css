@@ -31,7 +31,7 @@ body {
     padding-right: 80px;
 }
 
-.fundriser {
+.fundraiser {
     text-align: center;
     font-size: 50px;
     padding-top: 55px;
@@ -41,9 +41,11 @@ body {
     padding: 20px 20px;
     background-color: #0d630d;
     font-size: 20px;
+    font-weight: 700;
     border: 2px solid #0d630d;
     color: white;
     border-radius: 10px;
+    text-decoration: none;
 }
 
 .charity {
