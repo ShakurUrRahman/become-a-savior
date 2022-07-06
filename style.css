@@ -13,12 +13,76 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    height: 600px;
+    height: 700px;
 }
 
-.savior {
+.saviour {
     text-align: center;
     color: aliceblue;
     padding-top: 100px;
+    font-size: 70px;
+}
+
+.description {
+    color: aliceblue;
+    text-align: center;
+    padding-top: 10px;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+.fundriser {
+    text-align: center;
     font-size: 50px;
+    padding-top: 55px;
+}
+
+.button1 {
+    padding: 20px 20px;
+    background-color: #0d630d;
+    font-size: 20px;
+    border: 2px solid #0d630d;
+    color: white;
+    border-radius: 10px;
+}
+
+.charity {
+    text-align: center;
+    padding-top: 160px;
+}
+
+.charity h1 {
+    font-size: 75px;
+}
+
+.charity h3 {
+    padding-top: 20px;
+}
+
+.donate {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 50px;
+}
+
+.donate li {
+    list-style: none;
+    padding: 40px;
+
+    font-size: 25px;
+    font-weight: 900;
+}
+
+.list {
+
+    background-color: rgb(246, 237, 237);
+    border-radius: 10px;
+
+}
+
+.five-thousand {
+    background-image: linear-gradient(green, white);
+    border: 2px solid black;
+    color: rgb(3, 112, 3);
+    border-radius: 10px;
 }
